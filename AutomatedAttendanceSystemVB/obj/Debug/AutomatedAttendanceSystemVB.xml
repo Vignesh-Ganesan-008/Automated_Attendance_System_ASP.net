@@ -1,0 +1,566 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AutomatedAttendanceSystemVB
+</name>
+</assembly>
+<members>
+<member name="T:AutomatedAttendanceSystemVB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AutomatedAttendanceSystemVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AutomatedAttendanceSystemVB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AutomatedAttendanceSystemVB.My.Resources.Resources.kashipara">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet.studentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet.studentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet.studentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSetTableAdapters.studentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AutomatedAttendanceSystemVB.attendDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AutomatedAttendanceSystemVB.attendDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AutomatedAttendanceSystemVB.attendDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSetTableAdapters.TableAdapterManager.UpdateAll(AutomatedAttendanceSystemVB.attendDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet1.teacherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet1.teacherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet1.teacherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet1TableAdapters.teacherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(AutomatedAttendanceSystemVB.attendDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(AutomatedAttendanceSystemVB.attendDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(AutomatedAttendanceSystemVB.attendDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet1TableAdapters.TableAdapterManager.UpdateAll(AutomatedAttendanceSystemVB.attendDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet2.studentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet2.studentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet2.studentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet2TableAdapters.studentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(AutomatedAttendanceSystemVB.attendDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(AutomatedAttendanceSystemVB.attendDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(AutomatedAttendanceSystemVB.attendDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet2TableAdapters.TableAdapterManager.UpdateAll(AutomatedAttendanceSystemVB.attendDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet3.teacherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet3.teacherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet3.teacherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet3TableAdapters.teacherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(AutomatedAttendanceSystemVB.attendDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(AutomatedAttendanceSystemVB.attendDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(AutomatedAttendanceSystemVB.attendDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet3TableAdapters.TableAdapterManager.UpdateAll(AutomatedAttendanceSystemVB.attendDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet4.attendanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet4.attendanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet4.attendanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet4TableAdapters.attendanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(AutomatedAttendanceSystemVB.attendDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(AutomatedAttendanceSystemVB.attendDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(AutomatedAttendanceSystemVB.attendDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB.attendDataSet4TableAdapters.TableAdapterManager.UpdateAll(AutomatedAttendanceSystemVB.attendDataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB.attendDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet.AttennDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet.TeacherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet.AttennRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet.TeacherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet.AttennRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet.TeacherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.AttennTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.StudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.TeacherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.TableAdapterManager.UpdateAll(AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1.AttendanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1.TeacherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1.AttendanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1.TeacherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1.AttendanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1.TeacherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.AttendanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.StudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.TeacherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.TableAdapterManager.UpdateAll(AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:AutomatedAttendanceSystemVB._rk_vbpro_t2DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

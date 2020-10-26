@@ -1,0 +1,72 @@
+c:\users\dell\documents\visual studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.exe.config
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\attend.mdf
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\attend_log.ldf
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.vbprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.AddStudent.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.AddTeacher.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.Home.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.HomeStudent.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.HomeTeacher.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.MyDetails.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.TakeAttendance.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.ViewAttendance.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.ViewStudent.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.ViewTeacher.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.vbproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.pdb
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.exe.config
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.exe
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.xml
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.pdb
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\attend.mdf
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\attend_log.ldf
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.exe
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.pdb
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.xml
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.vbprojResolveAssemblyReference.cache
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.AddStudent.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.AddTeacher.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.Form1.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.Home.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.HomeStudent.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.HomeTeacher.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.Resources.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.MyDetails.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.TakeAttendance.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.ViewAttendance.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.ViewStudent.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.ViewTeacher.resources
+D:\vb project\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.vbproj.GenerateResource.Cache
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.exe.config
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.exe
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.xml
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.pdb
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\attend.mdf
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\attend_log.ldf
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.exe
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.pdb
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\AutomatedAttendanceSystemVB.xml
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.vbprojResolveAssemblyReference.cache
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.AddStudent.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.AddTeacher.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.Form1.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.Home.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.HomeStudent.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.HomeTeacher.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.Resources.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.MyDetails.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.TakeAttendance.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.ViewAttendance.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.ViewStudent.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.ViewTeacher.resources
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.vbproj.GenerateResource.Cache
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\rk-vbpro-t2.mdb
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\bin\Debug\MySql.Data.DLL
+C:\Users\vicky\Documents\Visual Studio 2015\Projects\AutomatedAttendanceSystemVB\AutomatedAttendanceSystemVB\obj\Debug\AutomatedAttendanceSystemVB.TeacherAttendance.resources

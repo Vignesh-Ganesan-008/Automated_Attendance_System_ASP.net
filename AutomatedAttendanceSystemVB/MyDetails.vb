@@ -18,7 +18,7 @@ Public Class MyDetails
         Dim myCommand As New MySqlCommand()
         myCommand.Connection = conn
         myCommand.CommandText = "SELECT * FROM studentlogin WHERE sid='" & Form1.textBox1.Text & "' LIMIT 1"
-
+' Author : Vignesh Ganesan
         myAdapter.SelectCommand = myCommand
 
         Dim moddata As MySqlDataReader

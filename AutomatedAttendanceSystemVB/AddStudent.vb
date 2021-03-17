@@ -1,5 +1,6 @@
 ﻿Imports System.Data.SqlClient
 Imports MySql.Data.MySqlClient
+' Author : Vignesh Ganesan
 Public Class AddStudent
     Dim Mysqlconn As MySqlConnection
     Dim command As MySqlCommand
@@ -140,3 +141,4 @@ Public Class AddStudent
         End If
     End Sub
 End Class
+' Author : Vignesh Ganesan

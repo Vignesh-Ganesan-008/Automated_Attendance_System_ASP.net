@@ -27,7 +27,7 @@ Public Class TakeAttendance
         End Try
     End Sub
 
-
+' Author : Vignesh Ganesan
 
     Private Sub TakeAttendance_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         DateTimePicker1.MaxDate = Date.Now
